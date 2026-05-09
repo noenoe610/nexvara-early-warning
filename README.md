@@ -141,7 +141,7 @@ If you use this work, please cite:
 ```bibtex
 @article{nexvara2026,
   title   = {Per-Individual Generative Modelling for Physiological Early Warning Across the Lifespan},
-  author  = {[Your name]},
+  author  = {Noelle Xiao},
   journal = {medRxiv},
   year    = {2026},
   doi     = {[DOI — update on posting]}
